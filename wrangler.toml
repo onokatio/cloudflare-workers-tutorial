@@ -1,0 +1,4 @@
+name = "cloudflare-workers-tutorial"
+compatibility_date = "2022-10-25"
+
+main = "index.js"
